@@ -1,2 +1,4 @@
 node_modules/
 .env
+_shots/
+_check_responsive.py
